@@ -60,7 +60,7 @@ nav .links .contact:hover {
 }
 
 .cont1 {
-  background-image: url("/assets/pexels-pixabay-355948(2).jpg");
+  background-image: url("./../assets/pexels-pixabay-355948(2).jpg");
   position: relative;
   background-position: center;
   background-size: cover;
@@ -178,7 +178,7 @@ nav .links .contact:hover {
 }
 
 .cont2 {
-  background-image: url("/assets/pexels-pixabay-159711.jpg");
+  background-image: url("./../assets/pexels-pixabay-159711.jpg");
   position: relative;
   background-position: center;
   background-size: cover;
@@ -195,7 +195,7 @@ nav .links .contact:hover {
 }
 
 .cont3 {
-  background-image: url("/assets/pexels-cottonbro-4778670.jpg");
+  background-image: url("./../assets/pexels-cottonbro-4778670.jpg");
   position: relative;
   background-position: center;
   background-size: cover;
